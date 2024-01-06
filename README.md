@@ -1,11 +1,35 @@
 # lyejiajun-writes
 I learn and I write. I write about technical stuff and productivity stuff.
 
+I founded [The AI Governance Journal](https://www.linkedin.com/pulse/introduction-ai-governance-journal-lye-jia-jun/) where I wrote about AI Governance, which was featured on publications such as [Towards AI](https://pub.towardsai.net/).
+
 Also, [I once wrote 1 article a month for a year straight](https://www.linkedin.com/pulse/introducing-crystalizemylearning-movement-lye-jia-jun/)
 
 ## Technical Stuff
 
-1. [Python Flask — A Powerful And Flexible Web App Framework](https://levelup.gitconnected.com/python-flask-a-powerful-and-flexible-web-app-framework-crystalizemylearning-mar-2022-6890e39e6c1e)
+1. [Demystifying LLMs: A Quick Summary to Andrej Karpathy’s Intro to LLM Course](https://medium.com/towards-artificial-intelligence/demystifying-llms-a-quick-summary-to-andrej-karpathys-intro-to-llm-course-6816111dc809)
+   
+1. [What the heck are JWT and OAuth 2.0?](https://levelup.gitconnected.com/what-the-heck-are-jwt-and-oauth-2-0-865312ed2aff)
+  
+1. [Understanding The Emotions Behind The Human Language](https://medium.com/geekculture/understanding-the-emotions-behind-the-human-language-34938a1fb5c7)
+
+1. [Becoming A Metaverse Developer](https://medium.com/codex/becoming-a-metaverse-developer-de398a4702cb)
+   
+2. [Python Flask — A Powerful And Flexible Web App Framework](https://levelup.gitconnected.com/python-flask-a-powerful-and-flexible-web-app-framework-crystalizemylearning-mar-2022-6890e39e6c1e)
+
+
+| Article                                              | Published On                                            | Summary                     | Year Published |
+|-----------------------------------------------------|-----------------------------------------------------|-----------------------------|----------------|
+| [Demystifying LLMs: A Quick Summary to Andrej Karpathy’s Intro to LLM Course](https://medium.com/towards-artificial-intelligence/demystifying-llms-a-quick-summary-to-andrej-karpathys-intro-to-llm-course-6816111dc809) | - | Summary not provided. | - |
+| [What the heck are JWT and OAuth 2.0?](https://levelup.gitconnected.com/what-the-heck-are-jwt-and-oauth-2-0-865312ed2aff) | - | Summary not provided. | - |
+| [Understanding The Emotions Behind The Human Language](https://medium.com/geekculture/understanding-the-emotions-behind-the-human-language-34938a1fb5c7) | - | Summary not provided. | - |
+| [Becoming A Metaverse Developer](https://medium.com/codex/becoming-a-metaverse-developer-de398a4702cb) | - | Summary not provided. | - |
+| [Python Flask — A Powerful And Flexible Web App Framework](https://levelup.gitconnected.com/python-flask-a-powerful-and-flexible-web-app-framework-crystalizemylearning-mar-2022-6890e39e6c1e) | - | Summary not provided. | - |
+
+
+
+
+... to be tidied up.
 
 ## Polytechnic (High School) Stuff
 <!--
