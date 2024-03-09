@@ -3,14 +3,21 @@ I learn and I write. I write about technical stuff and productivity stuff.
 
 I founded [The AI Governance Journal](https://www.linkedin.com/pulse/introduction-ai-governance-journal-lye-jia-jun/) where I wrote about AI Governance, which was featured in publications such as [Towards AI](https://pub.towardsai.net/).
 
-Also, [I once wrote 1 article a month for a year straight](https://www.linkedin.com/pulse/introducing-crystalizemylearning-movement-lye-jia-jun/)
+Also, [I once wrote 1 article a month for a year straight](https://www.linkedin.com/pulse/introducing-crystalizemylearning-movement-lye-jia-jun/).
+
+## On AI Governance
+| Article                                              | Published On                                            | Summary                     | Year Published |
+|-----------------------------------------------------|-----------------------------------------------------|-----------------------------|----------------|
+| [A Comprehensive Guide to Stakeholder Analysis in AI Governance (Part 2)](https://www.linkedin.com/pulse/comprehensive-guide-stakeholder-analysis-ai-part2-lye-jia-jun-zuloc/) | [Towards AI](https://pub.towardsai.net/a-comprehensive-guide-to-stakeholder-analysis-in-ai-governance-part-2-6b9039649317) | Stakeholder Analysis in the AI Governance Domain | 2023 |
+| [A Comprehensive Guide to Stakeholder Analysis in AI Governance (Part 1)](https://www.linkedin.com/pulse/comprehensive-guide-stakeholder-analysis-ai-part1-lye-jia-jun-aphgc/) | [Towards AI](https://pub.towardsai.net/a-comprehensive-guide-to-stakeholder-analysis-in-ai-governance-part-1-b8a464755f9f) | Stakeholder Analysis in the AI Governance Domain | 2023 |
+| [The 12 Core Principles of AI Governance](https://www.linkedin.com/pulse/12-core-principles-ai-governance-lye-jia-jun/) | [Towards AI](https://pub.towardsai.net/the-12-core-principles-of-ai-governance-a17fd26643c7) | Research on AI Governance Principles | 2023 |
+| [Introduction to The AI Governance Journal](https://www.linkedin.com/pulse/introduction-ai-governance-journal-lye-jia-jun) | [Towards AI](https://medium.com/@lyejiajun/introduction-to-the-ai-governance-journal-4b8188e3cad8) | Introduction to the AI Governance Journal where I share my thoughts on AI Governance, Ethics and Safety | 2023 |
 
 ## Technical Stuff
-... to be tidied up.
 
 | Article                                              | Published On                                            | Summary                     | Year Published |
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------|----------------|
-| [Demystifying LLMs: A Quick Summary to Andrej Karpathy’s Intro to LLM Course](https://medium.com/towards-artificial-intelligence/demystifying-llms-a-quick-summary-to-andrej-karpathys-intro-to-llm-course-6816111dc809) | Towards AI | Summary not provided. | - |
+| [Demystifying LLMs: A Quick Summary to Andrej Karpathy’s Intro to LLM Course](https://www.linkedin.com/pulse/demystifying-llms-quick-summary-andrej-karpathys-intro-lye-jia-jun-r70jc) | [Towards AI](https://medium.com/towards-artificial-intelligence/demystifying-llms-a-quick-summary-to-andrej-karpathys-intro-to-llm-course-6816111dc809) | My key learnings from Andrej Kaparthy's LLM Course | 2023 |
 | [Meta Layoff: What Tech Workers, Businesses, and Founders Can Learn From This](https://www.linkedin.com/pulse/meta-layoff-what-tech-workers-businesses-founders-can-lye-jia-jun/) | [Geek Culture](https://medium.com/geekculture/meta-layoff-what-tech-workers-businesses-and-founders-can-learn-from-this-19acac036e6f)| I wrote about the 2022 META layoff, exploring the takeaways tech workers, businesses, and founders can learn from. | 2022 |
 | [4 Cognitive Biases In AI/ML Systems](https://www.linkedin.com/pulse/4-cognitive-biases-aimlsystems-crystalizemylearning-lye-jia-jun/) | [Towards AI](https://pub.towardsai.net/4-cognitive-biases-in-ai-ml-systems-a208ac87177d), Deepstash App | I wrote about the cognitive biases surrounding AI systems. | 2022 |
 | [What the heck are JWT and OAuth 2.0?](https://www.linkedin.com/pulse/what-heck-jwt-oauth20-crystalizemylearning-july2022-lye-jia-jun/) | [Level Up Coding](https://levelup.gitconnected.com/what-the-heck-are-jwt-and-oauth-2-0-865312ed2aff) | I wrote about the in-and-out of JWT (JSON Web Token) and OAuth 2.0, and how to apply them in projects. | 2022 |
